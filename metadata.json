@@ -1,0 +1,6 @@
+{
+  "name": "BEST CAR - Location de Voitures Casablanca",
+  "description": "Agence professionnelle de location de voitures courte et longue durée à Casablanca, Maroc. Votre route, votre liberté !",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
